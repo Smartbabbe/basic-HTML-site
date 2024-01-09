@@ -1,1 +1,3 @@
-# stutern-html-basic-exercise-1
+# This is a simple site without styling 
+
+Live link - https://smartbabbe.github.io/basic-HTML-site/
